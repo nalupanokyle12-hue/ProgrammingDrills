@@ -1,8 +1,11 @@
-# JavaScript Drills
+# JavaScript Programming Drills
 
-This branch contains my JavaScript programming drills.
+## Overview
 
-## Completed Drills
+This branch contains JavaScript programming drills and real-world programming exercises completed as part of my programming coursework.
 
-- Drill 1 - Filter Safe Deliveries
-- Drill 2 - Real-Life Example (Coffee Shop Order)
+Each drill is placed inside its own folder for better organization and easier version control.
+
+---
+
+## Folder Structure
