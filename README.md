@@ -1,49 +1,79 @@
-# Programming Drills
+# 👋 Get to Know Me Program (PowerShell)
 
-## Overview
+## 📖 Description
 
-This repository contains my programming drills, exercises, and laboratory activities completed for my Information Technology coursework.
-
-The repository is organized using separate Git branches to keep each programming language and activity organized.
+This repository contains my personal **Get to Know Me** program created using PowerShell. The program introduces myself by displaying my personal information through organized functions while demonstrating basic PowerShell scripting concepts.
 
 ---
 
-## Repository Structure
+## 💻 Features
 
-### Main Branch
-Contains my PowerShell profile script and repository documentation.
-
-### JavaScript Branch
-Contains JavaScript programming drills and algorithm exercises.
-
-### Python Branch
-Contains Python programming drills and activities.
+- Displays a welcome header
+- Shows my personal information
+- Displays my interests and hobbies
+- Prints a closing message
+- Uses functions for organized and readable code
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - PowerShell
-- JavaScript (Node.js)
-- Python 3
-- Git
-- GitHub
+- Windows PowerShell Console
 
 ---
 
-## Purpose
+## 📂 Program Structure
 
-The purpose of this repository is to:
-
-- Practice programming concepts
-- Improve problem-solving skills
-- Organize coursework using Git branches
-- Demonstrate version control using GitHub
+- `Show-Header` – Displays the program title
+- `Show-Profile` – Displays my personal information
+- `Show-Footer` – Displays the closing message
+- `self.ps1` – Main script that executes the program
 
 ---
 
-## Author
+## 📋 Sample Output
 
-Reinier Kyle Nalupano
+```text
+==========================================
+          GET TO KNOW ME PROGRAM
+==========================================
 
-Bachelor of Science in Information Technology
+Name        : Reinier Kyle Nalupano
+Course      : Bachelor of Science in Information Technology
+School      : Interface Computer College
+Location    : Iloilo, Philippines
+
+Interests
+- Programming
+- PC Building
+- Networking
+- Database Management
+
+==========================================
+Thank you for getting to know me!
+==========================================
+```
+
+---
+
+## 🎯 Purpose
+
+This activity was created to practice:
+
+- Writing PowerShell scripts
+- Creating and calling functions
+- Displaying formatted console output
+- Organizing simple programs
+
+---
+
+## 👤 Author
+
+**Kyle Nalupano**
+
+GitHub: https://github.com/nalupanokyle12-hue
+
+---
+
+⭐ Thank you for visiting my repository!
