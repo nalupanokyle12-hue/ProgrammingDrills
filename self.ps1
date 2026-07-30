@@ -5,7 +5,7 @@ function Show-Header {
 }
 
 function Show-Profile {
-    Write-Host "Name         : Kyle Nalupano"
+    Write-Host "Name         : Reinoier Kyle Nalupano"
     Write-Host "Course       : Bachelor of Science in Information Technology"
     Write-Host "School       : Interface Computer College"
     Write-Host "Location     : Iloilo, Philippines"
