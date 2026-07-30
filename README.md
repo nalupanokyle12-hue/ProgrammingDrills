@@ -34,19 +34,24 @@ This repository contains my personal **Get to Know Me** program created using Po
 
 ## 📋 Sample Output
 
+```text
 ==================================================
                GET TO KNOW ME PROGRAM
 ==================================================
-Name          : Reinier Kyle Nalupano
-Course        : Bachelor of Science in Information Technology
-School        : Interface Computer College
-Location      : Iloilo, Philippines
-Birthday      : March 26, 2004
-Dog or Cat Person : Dog Person 🐶
-Favorite OS   : Windows 11 Pro
-Languages     : JavaScript, Python
-Hobbies       : PC Building, Gaming, Programming, Drawing
-Career Goal   : Become a Game Developer
+Name              : Reinier Kyle Nalupano
+Course            : Bachelor of Science in Information Technology
+School            : Interface Computer College
+Location          : Iloilo, Philippines
+Birthday          : March 26, 2004
+Pet Preference    : Dog Person 🐶
+Favorite OS       : Windows 11 Pro
+Languages         : JavaScript, Python
+Hobbies           : PC Building, Gaming, Programming, Drawing
+Career Goal       : Become a Game Developer
+==================================================
+     Thank you for getting to know me!
+==================================================
+```
 ==================================================
      Thank you for getting to know me!
 ==================================================
