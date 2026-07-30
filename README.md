@@ -52,11 +52,7 @@ Career Goal       : Become a Game Developer
      Thank you for getting to know me!
 ==================================================
 ```
-==================================================
-     Thank you for getting to know me!
-==================================================
 
----
 
 ## 🎯 Purpose
 
